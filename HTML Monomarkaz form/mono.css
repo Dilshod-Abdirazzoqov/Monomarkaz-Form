@@ -1,0 +1,43 @@
+.umumiy{
+  width: 30%;
+  margin:25px auto;
+  border: 1px solid black;
+  text-align: center;
+  padding-bottom: 25px;
+  background-color: #1C3E70 ;
+}
+.img1 img{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+.img1{
+  width: 27%;
+  margin:0 auto;
+  padding-top: 15px;
+}
+.div_form .input1{
+  width: 80%;
+  height: 40px;
+  outline:none;
+  margin: 20px 0;
+  padding:0 15px
+}
+#check{
+  width: 15px;
+}
+.button{
+  width: 85%;
+  background-color: #333;
+  color: #fff;
+  padding:15px 25px;
+  outline:none;
+  border-radius:15px;
+  margin:15px 0;
+}
+.footer-form{text-align: center;}
+.footer_form input{
+  width: 86%;
+  padding:10px 0;
+  margin: 10px 0;
+}
